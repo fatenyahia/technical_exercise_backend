@@ -1,0 +1,174 @@
+2022-06-09 01:45:21.329  INFO 33628 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Starting TechnicalExerciseApplication using Java 1.8.0_301 on DESKTOP-DMI4D85 with PID 33628 (C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise\target\classes started by seert in C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise)
+2022-06-09 01:45:21.333 DEBUG 33628 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 01:45:21.334  INFO 33628 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 01:45:21.438  INFO 33628 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-09 01:45:21.439  INFO 33628 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-09 01:45:22.399  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:45:22.401  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-06-09 01:45:22.440  INFO 33628 --- [restartedMain] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.technical_exercise.repository.TaskRepository. If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2022-06-09 01:45:22.441  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 34 ms. Found 0 JDBC repository interfaces.
+2022-06-09 01:45:22.450  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:45:22.450  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-09 01:45:22.505  INFO 33628 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interfaces.
+2022-06-09 01:45:23.397  INFO 33628 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-06-09 01:45:23.410  INFO 33628 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-09 01:45:23.410  INFO 33628 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-09 01:45:23.578  INFO 33628 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-09 01:45:23.578  INFO 33628 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2138 ms
+2022-06-09 01:45:23.795  INFO 33628 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-09 01:45:23.884  INFO 33628 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-09 01:45:24.148  INFO 33628 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-09 01:45:24.299  INFO 33628 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-09 01:45:24.474  INFO 33628 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-09 01:45:24.490  INFO 33628 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-09 01:46:31.070  INFO 32464 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Starting TechnicalExerciseApplication using Java 1.8.0_301 on DESKTOP-DMI4D85 with PID 32464 (C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise\target\classes started by seert in C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise)
+2022-06-09 01:46:31.073 DEBUG 32464 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 01:46:31.074  INFO 32464 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 01:46:31.267  INFO 32464 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-09 01:46:31.267  INFO 32464 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-09 01:46:32.626  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:46:32.643  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-06-09 01:46:32.760  INFO 32464 --- [restartedMain] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.technical_exercise.repository.TaskRepository. If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2022-06-09 01:46:32.764  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 105 ms. Found 0 JDBC repository interfaces.
+2022-06-09 01:46:32.788  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:46:32.788  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-09 01:46:32.998  INFO 32464 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 176 ms. Found 1 JPA repository interfaces.
+2022-06-09 01:46:34.120  INFO 32464 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2022-06-09 01:46:34.145  INFO 32464 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-09 01:46:34.146  INFO 32464 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-09 01:46:34.388  INFO 32464 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-09 01:46:34.389  INFO 32464 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3120 ms
+2022-06-09 01:46:34.716  INFO 32464 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-09 01:46:34.793  INFO 32464 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-09 01:46:35.122  INFO 32464 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-09 01:46:35.423  INFO 32464 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-09 01:46:35.857  INFO 32464 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-09 01:46:35.893  INFO 32464 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-09 01:46:37.512  INFO 32464 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-09 01:46:37.530  INFO 32464 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-09 01:46:38.413  WARN 32464 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 01:46:39.080  WARN 32464 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-06-09 01:46:39.108  WARN 32464 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8888 is already in use
+2022-06-09 01:46:39.166  INFO 32464 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-09 01:46:39.184  INFO 32464 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-06-09 01:46:39.198  INFO 32464 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-06-09 01:46:39.209  INFO 32464 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-06-09 01:46:39.231  INFO 32464 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-09 01:46:39.287 ERROR 32464 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2022-06-09 01:47:59.068  INFO 35120 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Starting TechnicalExerciseApplication using Java 1.8.0_301 on DESKTOP-DMI4D85 with PID 35120 (C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise\target\classes started by seert in C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise)
+2022-06-09 01:47:59.072 DEBUG 35120 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 01:47:59.073  INFO 35120 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 01:47:59.169  INFO 35120 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-09 01:47:59.169  INFO 35120 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-09 01:47:59.898  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:47:59.900  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-06-09 01:47:59.942  INFO 35120 --- [restartedMain] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.technical_exercise.repository.TaskRepository. If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2022-06-09 01:47:59.943  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35 ms. Found 0 JDBC repository interfaces.
+2022-06-09 01:47:59.965  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 01:47:59.966  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-09 01:48:00.012  INFO 35120 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 41 ms. Found 1 JPA repository interfaces.
+2022-06-09 01:48:00.709  INFO 35120 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2022-06-09 01:48:00.717  INFO 35120 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-09 01:48:00.717  INFO 35120 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-09 01:48:00.852  INFO 35120 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-09 01:48:00.852  INFO 35120 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1683 ms
+2022-06-09 01:48:01.043  INFO 35120 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-09 01:48:01.089  INFO 35120 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-09 01:48:01.220  INFO 35120 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-09 01:48:01.320  INFO 35120 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-09 01:48:01.476  INFO 35120 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-09 01:48:01.487  INFO 35120 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-09 01:48:02.104  INFO 35120 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-09 01:48:02.113  INFO 35120 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-09 01:48:02.517  WARN 35120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 01:48:02.854  WARN 35120 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-06-09 01:48:02.899  INFO 35120 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2022-06-09 01:48:02.909  INFO 35120 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Started TechnicalExerciseApplication in 4.419 seconds (JVM running for 5.966)
+2022-06-09 09:05:44.320  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h7m4s176ms126µs100ns).
+2022-06-09 12:35:36.362  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m19s263ms830µs800ns).
+2022-06-09 13:21:45.033  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m8s317ms726µs800ns).
+2022-06-09 14:20:31.338  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m46s194ms285µs600ns).
+2022-06-09 16:51:51.433  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s586ms943µs200ns).
+2022-06-09 20:40:03.207  WARN 35120 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h39m59s777ms928µs500ns).
+2022-06-09 22:20:26.493  INFO 35120 --- [http-nio-9999-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-09 22:20:26.494  INFO 35120 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-09 22:20:26.528  INFO 35120 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 33 ms
+2022-06-09 22:21:15.004  INFO 5640 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Starting TechnicalExerciseApplication using Java 1.8.0_301 on DESKTOP-DMI4D85 with PID 5640 (C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise\target\classes started by seert in C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise)
+2022-06-09 22:21:15.007 DEBUG 5640 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 22:21:15.007  INFO 5640 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 22:21:15.113  INFO 5640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-09 22:21:15.114  INFO 5640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-09 22:21:16.513  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 22:21:16.514  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-06-09 22:21:16.557  INFO 5640 --- [restartedMain] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.technical_exercise.repository.TaskRepository. If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2022-06-09 22:21:16.559  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 39 ms. Found 0 JDBC repository interfaces.
+2022-06-09 22:21:16.572  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 22:21:16.572  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-09 22:21:16.649  INFO 5640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 69 ms. Found 1 JPA repository interfaces.
+2022-06-09 22:21:18.256  INFO 5640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2022-06-09 22:21:18.285  INFO 5640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-09 22:21:18.286  INFO 5640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-09 22:21:18.582  INFO 5640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-09 22:21:18.583  INFO 5640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3467 ms
+2022-06-09 22:21:19.005  INFO 5640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-09 22:21:19.145  INFO 5640 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-09 22:21:19.593  INFO 5640 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-09 22:21:19.882  INFO 5640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-09 22:21:20.176  INFO 5640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-09 22:21:20.207  INFO 5640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-09 22:21:21.631  INFO 5640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-09 22:21:21.648  INFO 5640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-09 22:21:22.453  WARN 5640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 22:21:23.249  WARN 5640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-06-09 22:21:23.346  INFO 5640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2022-06-09 22:21:23.371  INFO 5640 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Started TechnicalExerciseApplication in 9.193 seconds (JVM running for 10.899)
+2022-06-09 22:21:46.636  INFO 5640 --- [http-nio-9999-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-09 22:21:46.637  INFO 5640 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-09 22:21:46.640  INFO 5640 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-06-09 22:41:41.680  INFO 14352 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Starting TechnicalExerciseApplication using Java 1.8.0_301 on DESKTOP-DMI4D85 with PID 14352 (C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise\target\classes started by seert in C:\Users\seert\Desktop\projet halil\ressourcehumainebackend-main\technical_exercise)
+2022-06-09 22:41:41.682 DEBUG 14352 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-06-09 22:41:41.683  INFO 14352 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-06-09 22:41:41.837  INFO 14352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-09 22:41:41.837  INFO 14352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-09 22:41:43.319  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 22:41:43.321  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2022-06-09 22:41:43.365  INFO 14352 --- [restartedMain] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.technical_exercise.repository.TaskRepository. If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2022-06-09 22:41:43.366  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40 ms. Found 0 JDBC repository interfaces.
+2022-06-09 22:41:43.378  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-06-09 22:41:43.378  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-09 22:41:43.447  INFO 14352 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interfaces.
+2022-06-09 22:41:45.065  INFO 14352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2022-06-09 22:41:45.081  INFO 14352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-06-09 22:41:45.082  INFO 14352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-09 22:41:45.374  INFO 14352 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-06-09 22:41:45.374  INFO 14352 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3536 ms
+2022-06-09 22:41:45.737  INFO 14352 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-09 22:41:45.861  INFO 14352 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.9.Final
+2022-06-09 22:41:46.166  INFO 14352 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-09 22:41:46.366  INFO 14352 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-06-09 22:41:46.693  INFO 14352 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-06-09 22:41:46.725  INFO 14352 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-09 22:41:48.031  INFO 14352 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-09 22:41:48.056  INFO 14352 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-09 22:41:48.967  WARN 14352 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-09 22:41:49.917  WARN 14352 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2022-06-09 22:41:50.019  INFO 14352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2022-06-09 22:41:50.063  INFO 14352 --- [restartedMain] c.e.t.TechnicalExerciseApplication       : Started TechnicalExerciseApplication in 9.357 seconds (JVM running for 11.323)
+2022-06-09 22:41:50.188  INFO 14352 --- [http-nio-9999-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-09 22:41:50.189  INFO 14352 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-09 22:41:50.229  INFO 14352 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 40 ms
